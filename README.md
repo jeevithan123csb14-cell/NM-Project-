@@ -68,7 +68,7 @@ https://drive.google.com/file/d/1rWSPwQHRn9YLzIbKjPWPun0gJYGfBk8b/view?usp=drive
 
 📑 Documentation
 
-https://docs.google.com/document/d/1LBUvjjaWKJKW63EvX9F7LGC0KQWjOUrZJpL4sQiBe2I/edit?usp=sharing
+https://drive.google.com/file/d/1XWKhSRX43jqz4UpFpV05aEoHbQ9KSqEM/view?usp=drivesdk
 
 
 ---
